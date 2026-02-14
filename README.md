@@ -1,6 +1,3 @@
-# Convolve-4.0-MAS---TrustLens
-This repository contains our submission for Convolve 4.0 under the MAS Track. Our project is called 'TrustLens'
-
 #  TrustLens: Multi-Modal Document Forensics Engine
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
